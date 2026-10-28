@@ -1,0 +1,17 @@
+{
+	"id": "qt-puzzles",
+	"version": "0.0.1",
+	"title": {
+		"en_US": "QuieType's Puzzles"
+	},
+	"description": {
+		"en_US": "[WIP] A loose collections of puzzles made by QuieType, which will eventually be collected into a dungeon. Find them in Rookie Harbor."
+    },
+	"repository": "https://github.com/QuieType/qt-puzzles",
+  	"tags": ["puzzle"],
+  	"authors": "QuieType",
+  	"icons": {
+  	  "24": "icon24.png"
+ 	},
+	"prestart": "_prestart.js"
+}

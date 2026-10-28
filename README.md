@@ -1,0 +1,1 @@
+Here's a collection of the loose, beta version of some puzzles I'm working on. Eventually, this'll be nicely collected in a beautiful dungeon, Squared Affinity. For now though, find a building in rookie harbor you used to not be able to get into. Because someone wouldn't let you in. He may now, if you've finished Ku'lero temple!
